@@ -5,7 +5,7 @@ public class HelloWorld {
     }
 
     public static void printHelloWorld () {
-        System.out.println("Hello World friends!!!! This a change for test jenkins 3");
+        System.out.println("Hello World friends!!!!");
     }
 
 }
