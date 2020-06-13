@@ -12,6 +12,8 @@ public class HelloWorld {
         System.out.println("Hello World friends new line 4");
         System.out.println("Hello World friends new line 5");
         System.out.println("Hello World friends new line 6");
+        System.out.println("Hello World friends new line 7");
+        System.out.println("Hello World friends new line 8");
     }
 
 }
